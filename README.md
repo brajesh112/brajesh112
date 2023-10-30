@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brajesh112
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning ROR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  at sahubrajesh112@gmail.com 
 
